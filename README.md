@@ -46,7 +46,6 @@ FlavorFusion/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-
-Your Name - [@yourgithub](https://github.com/CHALLAYOGESWARRCS)
+CHALLAYOGESWAR — challayogeswar8790@gmail.com
 
 Project Link: [https://github.com/CHALLAYOGESWARRCS/FlavorFusion](https://github.com/CHALLAYOGESWARRCS/FlavorFusion)
